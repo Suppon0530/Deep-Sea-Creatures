@@ -1793,7 +1793,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 936749025}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 56666c5a40171f54783dd416a44f42bf, type: 3}
   m_Name: 
@@ -1813,7 +1813,7 @@ GameObject:
   - component: {fileID: 992583845}
   - component: {fileID: 992583847}
   - component: {fileID: 992583846}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: BackGround
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2551,7 +2551,7 @@ GameObject:
   - component: {fileID: 1695643988}
   - component: {fileID: 1695643987}
   - component: {fileID: 1695643986}
-  m_Layer: 5
+  m_Layer: 0
   m_Name: Game_Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3800,8 +3800,8 @@ SceneRoots:
   m_Roots:
   - {fileID: 936749030}
   - {fileID: 1866889193}
-  - {fileID: 812926455}
   - {fileID: 1695643989}
+  - {fileID: 812926455}
   - {fileID: 1243474497}
   - {fileID: 127593908}
   - {fileID: 298027124}
