@@ -1,12 +1,23 @@
 # ninja log v5
+15	1940	7849174302670448	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1bce4d2bc6d0b7c8
 66	436	7849174287670143	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	549b9d2e2c7a6895
+29	1832	7849174301595572	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f7e8fc53facc32e8
 438	592	7849174289156257	C:/Users/Suppo/Unity-works/Deep-Sea-Creatures/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5h4l643w/obj/arm64-v8a/libswappywrapper.so	476d5000a6790c2
 22	1472	7849174297884526	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	71348decf0da8f2f
 38	1481	7849174297995488	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5b45241415c3166c
-56	1529	7849174298534147	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e6b81f0e7ff938ea
-1	1532	7849174298534147	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1b1da46c065698db
 9	1630	7849174299495582	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	318104c7af3ab14
+56	1529	7849174298534147	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e6b81f0e7ff938ea
 47	1771	7849174300972280	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ebd8c3d211191fdd
-29	1832	7849174301595572	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f7e8fc53facc32e8
-15	1940	7849174302670448	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1bce4d2bc6d0b7c8
+1	1532	7849174298534147	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1b1da46c065698db
 1941	2040	7849174303703187	C:/Users/Suppo/Unity-works/Deep-Sea-Creatures/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5h4l643w/obj/arm64-v8a/libgame.so	2d32b2f151665097
+72	431	7861874271993851	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	549b9d2e2c7a6895
+431	635	7861874274004256	C:/Users/Suppo/Unity-works/Deep-Sea-Creatures/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5h4l643w/obj/arm64-v8a/libswappywrapper.so	476d5000a6790c2
+27	1798	7861874285609236	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5b45241415c3166c
+41	1800	7861874285609236	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	71348decf0da8f2f
+35	1833	7861874285948530	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1b1da46c065698db
+48	1837	7861874286019101	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e6b81f0e7ff938ea
+18	1900	7861874286648892	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	318104c7af3ab14
+55	2097	7861874288606423	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f7e8fc53facc32e8
+64	2169	7861874289350165	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ebd8c3d211191fdd
+11	2202	7861874289657837	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1bce4d2bc6d0b7c8
+2202	2309	7861874290760595	C:/Users/Suppo/Unity-works/Deep-Sea-Creatures/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5h4l643w/obj/arm64-v8a/libgame.so	2d32b2f151665097

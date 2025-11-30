@@ -41,11 +41,11 @@ public class AdMobMgr : MonoBehaviour
     private void LoadInterstitialAd()
     {
         #if UNITY_ANDROID
-            string adUnitId_in = "ca-app-pub-3940256099942544/1033173712";    // テスト広告
-            // string adUnitId_in = "ca-app-pub-3771226114317990/9784204290";    // 本番広告
+            // string adUnitId_in = "ca-app-pub-3940256099942544/1033173712";    // テスト広告
+            string adUnitId_in = "ca-app-pub-3771226114317990/9784204290";    // 本番広告
         #elif UNITY_IPHONE
-            string adUnitId_in = "ca-app-pub-3940256099942544/4411468910";    // テスト広告
-            // string adUnitId_in = "ca-app-pub-3771226114317990/4425712621";    // 本番広告
+            // string adUnitId_in = "ca-app-pub-3940256099942544/4411468910";    // テスト広告
+            string adUnitId_in = "ca-app-pub-3771226114317990/4425712621";    // 本番広告
         #else
             string adUnitId_in = "unexpected_platform";
         #endif
@@ -116,11 +116,11 @@ public class AdMobMgr : MonoBehaviour
     private void RequestBanner()
     {
         #if UNITY_ANDROID
-            string adUnitId_ba = "ca-app-pub-3940256099942544/6300978111"; // テスト用広告ユニットID
-            // string adUnitId_ba = "ca-app-pub-3771226114317990/5386987228";    // 本番用広告ユニットID
+            // string adUnitId_ba = "ca-app-pub-3940256099942544/6300978111"; // テスト用広告ユニットID
+            string adUnitId_ba = "ca-app-pub-3771226114317990/5386987228";    // 本番用広告ユニットID
         #elif UNITY_IPHONE
-            string adUnitId_ba = "ca-app-pub-3940256099942544/2934735716"; // テスト用広告ユニットID
-            // string adUnitId_ba = "ca-app-pub-3771226114317990/3315357655";    // 本番用広告ユニットID
+            // string adUnitId_ba = "ca-app-pub-3940256099942544/2934735716"; // テスト用広告ユニットID
+            string adUnitId_ba = "ca-app-pub-3771226114317990/3315357655";    // 本番用広告ユニットID
         #else
             string adUnitId_ba = "unexpected_platform";
         #endif
